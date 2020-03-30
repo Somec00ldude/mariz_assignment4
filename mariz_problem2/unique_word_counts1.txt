@@ -1,0 +1,13 @@
+Times that "a" occurs is: 1.
+Times that "use" occurs is: 1.
+Times that "go" occurs is: 1.
+Times that "this" occurs is: 1.
+Times that "i" occurs is: 2.
+Times that "google" occurs is: 2.
+Times that "is" occurs is: 1.
+Times that "store" occurs is: 1.
+Times that "nice" occurs is: 2.
+Times that "the" occurs is: 1.
+Times that "to" occurs is: 1.
+Times that "every" occurs is: 1.
+Times that "day" occurs is: 2.
